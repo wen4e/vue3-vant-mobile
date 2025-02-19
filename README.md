@@ -4,7 +4,7 @@
 
 <h1 align="center">vue3-vant-mobile</h1>
 
-English / [简体中文1](./README.zh-CN.md)
+English / [简体中文](./README.zh-CN.md)
 
 An mobile web apps template based on the Vue 3 ecosystem.
 
